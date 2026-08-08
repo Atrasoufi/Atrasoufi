@@ -7,7 +7,7 @@
 **Python & Django Backend Developer in progress**  
 *I like clean code, challenging bugs, and turning ideas into working software.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-zizisoufi-181717?style=flat-square&logo=github)](https://github.com/zizisoufi)
+[![GitHub](https://img.shields.io/badge/GitHub-zizisoufi-181717?style=flat-square&logo=github)](https://github.com/Atrasoufi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E88BB5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinab-soufi-neyestani-8a1842299/)
 [![Telegram](https://img.shields.io/badge/Telegram-BugCoffeeWithAtra-E8A4C4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/BugCoffeeWithAtra)
 
