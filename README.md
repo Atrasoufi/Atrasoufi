@@ -7,9 +7,10 @@
 **Python & Django Backend Developer in progress**  
 *I like clean code, challenging bugs, and turning ideas into working software.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-zizisoufi-181717?style=flat-square&logo=github)](https://github.com/Atrasoufi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E88BB5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinab-soufi-neyestani-8a1842299/)
-[![Telegram](https://img.shields.io/badge/Telegram-BugCoffeeWithAtra-E8A4C4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/BugCoffeeWithAtra)
+[![GitHub](https://img.shields.io/badge/GitHub-atrasoufi-181717?style=flat-square&logo=github&logoColor=pink)](https://github.com/Atrasoufi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E88BB5?style=flat-square&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/zeinab-soufi-neyestani-8a1842299/)
+[![Telegram](https://img.shields.io/badge/Telegram-BugCoffeeWithAtra-E8A4C4?style=flat-square&logo=telegram&logoColor=pink)](https://t.me/BugCoffeeWithAtra)
+
 
 </div>
 
@@ -75,7 +76,7 @@ A Python backend/data project for collecting, storing and analyzing earthquake d
 **Stack:**  
 `Python` `PostgreSQL` `SQLAlchemy` `Pandas` `Selenium` `unittest`
 
-<a href="https://github.com/zizisoufi/Namazu">View project →</a>
+<a href="https://github.com/Atrasoufi/Namazu">View project →</a>
 
 </td>
 
@@ -88,7 +89,7 @@ A Python project from my learning and development journey.
 **Focus:**  
 `Python` `Problem Solving` `Project Structure`
 
-<a href="https://github.com/zizisoufi/404station">View project →</a>
+<a href="https://github.com/Atrasoufi/404station">View project →</a>
 
 </td>
 </tr>
@@ -103,7 +104,7 @@ A collection of Python exercises and mini-projects built to strengthen fundament
 **Focus:**  
 `Python` `OOP` `Practice`
 
-<a href="https://github.com/zizisoufi/python-master-project">View project →</a>
+<a href="https://github.com/Atrasoufi/python-master-project">View project →</a>
 
 </td>
 
@@ -116,7 +117,7 @@ Small Linux/Bash scripts created while improving my command-line and Linux skill
 **Focus:**  
 `Linux` `Bash` `Shell`
 
-<a href="https://github.com/zizisoufi/bash-scripts">View project →</a>
+<a href="https://github.com/Atrasoufi/bash-scripts">View project →</a>
 
 </td>
 </tr>
@@ -145,15 +146,15 @@ Small Linux/Bash scripts created while improving my command-line and Linux skill
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zizisoufi&show_icons=true&hide_border=true&title_color=E88BB5&icon_color=E88BB5&text_color=666666&bg_color=FFF7FB" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Atrasoufi&show_icons=true&hide_border=true&title_color=E88BB5&icon_color=E88BB5&text_color=666666&bg_color=FFF7FB" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizisoufi&layout=compact&hide_border=true&title_color=E88BB5&text_color=666666&bg_color=FFF7FB" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atrasoufi&layout=compact&hide_border=true&title_color=E88BB5&text_color=666666&bg_color=FFF7FB" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zizisoufi&hide_border=true&background=FFF7FB&ring=E88BB5&fire=E88BB5&currStreakLabel=E88BB5&sideLabels=E88BB5&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=Atrasoufi&hide_border=true&background=FFF7FB&ring=E88BB5&fire=E88BB5&currStreakLabel=E88BB5&sideLabels=E88BB5&dates=888888" />
 
 </div>
 
