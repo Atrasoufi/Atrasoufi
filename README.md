@@ -133,7 +133,7 @@ Small Linux/Bash scripts created while improving my command-line and Linux skill
 │  🌸 Django & Django REST Framework       │
 │  🐘 PostgreSQL & SQL                     │
 │  🧪 Testing & Clean Code                 │
-│  🏗️ Software Engineering & Architecture │
+│  🏗️ Software Engineering & Architecture  │
 │  🐧 Linux                                │
 │  🌐 Networking / CCNA                    │
 │  🚀 Backend System Design                │
