@@ -1,227 +1,202 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ff1493,100:8a2be2&height=230&section=header&text=ATRA%20🦋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20Linux%20%7C%20Coffee%20%26%20Code&descAlignY=65&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,50:F7A8C8,100:DDA0DD&height=220&section=header&text=ATRA%20%F0%9F%A6%8B&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%7C%20Python%20%7C%20Django&descAlignY=62&descSize=18" width="100%"/>
 
-# 🌸 Hey, I'm Atra
+### 🌸 `building • debugging • learning • repeating`
 
-### 🩷 Backend Developer in progress
+**Python & Django Backend Developer in progress**  
+*I like clean code, challenging bugs, and turning ideas into working software.*
 
-### 🐍 Python Lover | Django Builder | Bug Hunter
-
-*"Turning coffee into code and ideas into systems." ☕💻*
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=zizisoufi&color=ff69b4&style=flat-square">
+[![GitHub](https://img.shields.io/badge/GitHub-zizisoufi-181717?style=flat-square&logo=github)](https://github.com/zizisoufi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E88BB5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinab-soufi-neyestani-8a1842299/)
+[![Telegram](https://img.shields.io/badge/Telegram-BugCoffeeWithAtra-E8A4C4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/BugCoffeeWithAtra)
 
 </div>
 
 ---
 
-# 🦋 About Me
+## 🩷 A little about me
 
-```python
-class Atra:
+Hi! I'm **Atra** 🦋
 
-    name = "Atra"
-    role = "Backend Developer"
+I'm a developer focused on **backend engineering with Python and Django**.
 
-    passion = [
-        "Python",
-        "Django",
-        "Software Engineering",
-        "Problem Solving"
-    ]
-
-    building = [
-        "REST APIs",
-        "Backend Systems",
-        "Data Driven Applications"
-    ]
-
-    learning = [
-        "Advanced Django",
-        "System Design",
-        "Docker",
-        "Cloud"
-    ]
-
-    mindset = "Learn deeply. Build beautifully."
-```
-
----
-
-# 💗 My Developer Journey
-
-```
-          🐍 Python
-              |
-              |
-          🌸 Django
-              |
-              |
-       🌐 REST API
-              |
-              |
-       🐘 PostgreSQL
-              |
-              |
-       🧪 Testing
-              |
-              |
-       🚀 Backend Engineer
-```
-
----
-
-# 🎀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,git,github,linux,docker,bash,vscode&theme=light"/>
-
-</div>
-
-### Backend
-
-`Python` • `Django` • `Django REST Framework`
-`REST API` • `SQLAlchemy` • `PostgreSQL`
-
-### Engineering
-
-`Git` • `GitHub` • `Linux` • `Bash`
-`Testing` • `Clean Code` • `Software Design`
-
----
-
-# 🌷 Featured Projects
-
-## 🌋 Namazu
-
-### Earthquake Data Analysis Platform for Japan
-
-A backend/data project focused on collecting, storing and analyzing earthquake information.
-
-**Stack**
-
-```
-Python
-PostgreSQL
-SQLAlchemy
-Pandas
-Selenium
-unittest
-```
-
-🔗 github.com/zizisoufi/Namazu
-
----
-
-## 🧩 404station
-
-Python project focused on improving programming skills and building practical solutions.
-
-**Focus**
-
-```
-Python
-Logic
-Problem Solving
-Project Structure
-```
-
-🔗 github.com/zizisoufi/404station
-
----
-
-## 🐍 Python Master Project
-
-A collection of Python exercises and mini projects.
-
-**Focus**
-
-```
-Python Fundamentals
-OOP
-Algorithms
-Practice
-```
-
----
-
-# 🦄 Currently Learning
+My current path is a mix of:
 
 ```text
-🩷 Advanced Python
+Python
+   ↓
+Django
+   ↓
+Django REST Framework
+   ↓
+SQL + PostgreSQL
+   ↓
+Testing + Clean Code
+   ↓
+System Design
+   ↓
+Production-ready Backend 🚀
+```
 
-🌸 Django REST Framework
+I also enjoy learning **Linux, networking and software engineering**, because I want to understand not only how to write code, but how the systems around that code actually work.
 
-🐘 PostgreSQL Optimization
+---
 
-🧪 Testing & Clean Architecture
+## 🎀 My Tech Stack
 
-🐧 Linux Administration
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite&theme=light" />
+</p>
 
-🌐 Networking & CCNA
+### Tools & Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,bash&theme=light" />
+</p>
 
-🏗️ System Design
+### Also learning
+`Django REST Framework` • `REST APIs` • `SQLAlchemy` • `Testing` • `Networking` • `CCNA` • `System Design`
+
+---
+
+## 🌷 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌋 Namazu
+
+**Earthquake Data Analysis Platform for Japan**
+
+A Python backend/data project for collecting, storing and analyzing earthquake data.
+
+**Stack:**  
+`Python` `PostgreSQL` `SQLAlchemy` `Pandas` `Selenium` `unittest`
+
+<a href="https://github.com/zizisoufi/Namazu">View project →</a>
+
+</td>
+
+<td width="50%">
+
+### 🧩 404station
+
+A Python project from my learning and development journey.
+
+**Focus:**  
+`Python` `Problem Solving` `Project Structure`
+
+<a href="https://github.com/zizisoufi/404station">View project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐍 Python Master Project
+
+A collection of Python exercises and mini-projects built to strengthen fundamentals and problem-solving.
+
+**Focus:**  
+`Python` `OOP` `Practice`
+
+<a href="https://github.com/zizisoufi/python-master-project">View project →</a>
+
+</td>
+
+<td width="50%">
+
+### 🐚 Bash Scripts
+
+Small Linux/Bash scripts created while improving my command-line and Linux skills.
+
+**Focus:**  
+`Linux` `Bash` `Shell`
+
+<a href="https://github.com/zizisoufi/bash-scripts">View project →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🦋 Currently Learning
+
+```text
+╭──────────────────────────────────────────╮
+│  🐍 Advanced Python                      │
+│  🌸 Django & Django REST Framework       │
+│  🐘 PostgreSQL & SQL                     │
+│  🧪 Testing & Clean Code                 │
+│  🏗️ Software Engineering & Architecture │
+│  🐧 Linux                                │
+│  🌐 Networking / CCNA                    │
+│  🚀 Backend System Design                │
+╰──────────────────────────────────────────╯
 ```
 
 ---
 
-# 💻 GitHub Analytics
+## 💗 My GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zizisoufi&show_icons=true&hide_border=true&title_color=ff1493&icon_color=ff69b4&bg_color=fff0f8">
+<img src="https://github-readme-stats.vercel.app/api?username=zizisoufi&show_icons=true&hide_border=true&title_color=E88BB5&icon_color=E88BB5&text_color=666666&bg_color=FFF7FB" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizisoufi&layout=compact&hide_border=true&title_color=ff1493&bg_color=fff0f8">
-
-</div>
-
----
-
-# 🔥 Coding Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=zizisoufi&theme=radical&hide_border=true">
-
-</div>
-
----
-
-# 🌸 My Philosophy
-
-> "Beautiful code is not only code that works.
-> It is code that can be understood."
-
-I use AI as my learning partner:
-
-* 🧠 understanding concepts
-* 🐛 debugging problems
-* 🚀 improving faster
-
-But I always believe:
-
-**Understand first. Copy never. Build always.**
-
----
-
-# 🩷 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/zizisoufi">
-<img src="https://img.shields.io/badge/GitHub-zizisoufi-ff69b4?style=for-the-badge&logo=github">
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizisoufi&layout=compact&hide_border=true&title_color=E88BB5&text_color=666666&bg_color=FFF7FB" height="170"/>
 
 </div>
 
 <div align="center">
 
-### 🦋 Thanks for visiting my little cyber garden 🌸
+<img src="https://streak-stats.demolab.com?user=zizisoufi&hide_border=true&background=FFF7FB&ring=E88BB5&fire=E88BB5&currStreakLabel=E88BB5&sideLabels=E88BB5&dates=888888" />
 
-`Python + Coffee + Dreams + Bugs`
+</div>
+
+---
+
+## 🌸 Developer Philosophy
+
+> **Don't just make it work. Understand why it works.**
+
+I use AI as a **learning partner, debugging assistant and research tool** —  
+but the goal is always to understand the code behind the answer. 🧠
+
+---
+
+## 🎯 Where I'm Going
+
+```text
+        Python
+          │
+          ▼
+       Backend
+          │
+          ▼
+   Django + DRF
+          │
+          ▼
+ PostgreSQL + APIs
+          │
+          ▼
+ Testing + Architecture
+          │
+          ▼
+ Production Backend Engineer 🚀
+```
+
+---
+
+<div align="center">
+
+### 🩷 Thanks for visiting my little corner of GitHub 🩷
+
+**If you're into Python, backend engineering, Linux or learning in public — let's connect.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDA0DD,50:F7A8C8,100:FFB6D9&height=120&section=footer" width="100%"/>
 
 </div>
