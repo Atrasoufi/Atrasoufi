@@ -142,22 +142,23 @@ Small Linux/Bash scripts created while improving my command-line and Linux skill
 
 ---
 
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/Atrasoufi/Atrasoufi/output/github-stats.png" width="420" alt="Pixel Stats"/>
+</div> -->
+
+<br>
+
 ## 💗 My GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atrasoufi&show_icons=true&hide_border=true&title_color=E88BB5&icon_color=E88BB5&text_color=666666&bg_color=FFF7FB" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atrasoufi&layout=compact&hide_border=true&title_color=E88BB5&text_color=666666&bg_color=FFF7FB" height="170"/>
-
+  <img src="https://streak-stats.demolab.com?user=Atrasoufi&hide_border=true&background=FFF7FB&ring=E88BB5&fire=E88BB5&currStreakLabel=E88BB5&sideLabels=E88BB5&dates=888888" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Atrasoufi&hide_border=true&background=FFF7FB&ring=E88BB5&fire=E88BB5&currStreakLabel=E88BB5&sideLabels=E88BB5&dates=888888" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atrasoufi&bg_color=fff7fb&color=e88bb5&line=e88bb5&point=c26d9a&area=true&area_color=f8d0e0&hide_border=true&custom_title=My%20Activity&radius=12&height=300"  alt="Contribution Graph"/>
 </div>
 
+<br>
 ---
 
 ## 🌸 Developer Philosophy
