@@ -2,8 +2,8 @@ name: Generate Pixel Profile Card
 
 on:
   schedule:
-    - cron: "0 3 * * *"          
-  workflow_dispatch:           
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -14,6 +14,7 @@ jobs:
       - name: Generate Pixel Card
         uses: LuciNyan/pixel-profile/action@main
         with:
+          github_token: ${{ secrets.PIXEL_TOKEN }}
           outputs: |
             dist/github-stats.png?username=Atrasoufi&theme=pink&pixelate_avatar=true&screen_effect=true&include_all_commits=true&hide=issues
 
